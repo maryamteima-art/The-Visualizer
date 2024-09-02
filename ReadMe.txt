@@ -16,6 +16,12 @@ Continously clicking the up key, results in a collage of particles flowing downw
 
 The different stars react to different instrument frequencies. The white stars react to synthesizer while the yellow stars react to bells frequency. The blue stars simply amplify the effect of the snapping at the end of the song, but they react to the bell frequency as well (only visually there to amplify snapping effect and indicate ending of the song)
 
+MY CODE:
+OfApp.h
+OfApp.cpp
+main.cpp
+
+~The rest are addons
 
 REFERENCES:
 Font: Wortlaut AH, was obtained from https://fontesk.com/wortlaut-ah-typeface/, under free for commercial use liscense.
