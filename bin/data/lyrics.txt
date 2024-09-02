@@ -1,0 +1,63 @@
+0.0,(MUSIC)
+10.0,You have not seen 
+12.0,how much I love her?
+15.0,This is the one 
+16.0,I leave my life 
+17.0,between her hands
+19.0,If she was absent from me for a second,
+21.0,my heart would disappear from me
+24.0,What is the need for my words 
+26.0,if it is not all about her?
+29.0,You have not seen 
+30.0,how much I love her 
+34.0,This is the one I leave 
+35.0,my life in her hands 
+39.0,You have not seen 
+40.0,how much I love her
+43.0,This is the one I leave 
+44.0,my life in her hands 
+48.0,(MUSIC)
+67.0,If these people are light, 
+68.0,then she is the sun 
+69.0,and the daytime
+72.0,The moon in her beauty, 
+74.0,does not joke around
+76.0,Two minutes with her
+78.0,are worth days of this world
+80.0,Now that I am attached to her, 
+82.0,what more will I want in my life after that
+85.0,You have not seen 
+86.0,how much I love her 
+90.0,This is the one 
+91.0,I leave my life in her hands 
+95.0,You have not seen 
+96.0,how much I love her 
+100.0,This is the one 
+101.0,I leave my life in her hands 
+105.0,(MUSIC)
+123.0,I told her words 
+125.0,she said 'all good?'
+127.0,And when she said this, 
+128.0,my heart said 
+129.0,everything good 
+132.0,There is nothing like her,
+133.0,and if there is, 
+134.0,how can it ever be like her
+137.0,Her own reflection in the mirror,
+138.0,she is much sweeter than it beyond compare
+142.0,You have not seen
+143.0,how much I love her 
+146.0,This is the one 
+147.0,I leave my life in her hands 
+151.0,You have not seen 
+152.0,how much I love her 
+156.0,This is the one 
+157.0,I leave my life in her hands 
+161.0,You have not seen  
+162.0,how much I love her 
+165.0,This is the one 
+166.0,I leave my life in her hands 
+170.0,You have not seen 
+171.0,how much I love her 
+174.0,This is the one I leave my life in her hands 
+175.0,I leave my life in her hands
