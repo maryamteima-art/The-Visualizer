@@ -1,4 +1,4 @@
-i. Overview of what you did (i.e. what are the controls? Why this design?)
+i. Overview of the Application (i.e. What are the controls? Why this design?)
 
 The visualizer consists of two main components, Control Panel and the Scene itself.
 
